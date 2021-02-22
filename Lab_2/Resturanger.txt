@@ -1,0 +1,44 @@
+resturantsNames = [
+                      'Mr_Frusto', 'Shagoon', 'SuperHusmansKost', 'Pikea', 'MiniBlue',
+                      'Italian_Horse', 'Tacos_King', 'ThaiTanic', 'Snekea', 'MC_Campus',
+                      'Frusty_Krab', 'Elit_Resturant', 'God_Morning_Cafe', 'Evning_Dinner',
+                      'Svenssn_Svensons', 'Tony,s', 'Godexo', 'Max', 'Mcdonalds',
+                      'Metro_Subs'
+                ]
+
+|Mr Frusto| Pizza Italian High Mid 50
+Shagoon Asian Vietnamese High High 40
+SuperHusmansKost Traditional Swedish High High 10
+Pikea Shoppingmallresturant Swedish Mid Low 90
+MiniBlue Cafe Norweagian Low Low 30
+|Italian Horse| |Pizza resturant| Italian Low Low 50
+|Tacos King| |Hamburger Resturant| Mexican Mid Low 20
+ThaiTanic Thai Thaiwanese High Mid 60
+Snekea |ShoppingMall Resturant| Swedish Low Low 100
+|Mc campus| General German Low Low 1
+|Frusty Krab| General amarican Low Mid 40
+|Elit Resturant| |Fine Dinnig| Swedish High High 55
+|Good Morning Cafe| Cafe Swedish Mid Mid 20
+|Evning Dinner| |Fine Dinning| Italian Mid High 30
+|Svennson svennson| General Swedish High Low 45
+Tonys |Pizza resturant| Italian High High 2
+Godexo Cafe French Low Mid 0
+Max |Hamburger resturant| Swedish Mid Low 30
+McDonalds |Hamburger resturant| Amarican Low Low 30
+|Metro subs| Subs Amarican High Low 40
+
+Namn: 'Mr_Frusto', 'Shagoon', 'SuperHusmansKost', 'Pikea', 'MiniBlue',
+                      'Italian_Horse', 'Tacos_King', 'ThaiTanic', 'Snekea', 'MC_Campus',
+                      'Frusty_Krab', 'Elit_Resturant', 'God_Morning_Cafe', 'Evning_Dinner',
+                      'Svenssn_Svensons', 'Tony,s', 'Godexo', 'Max', 'Mcdonalds',
+                      'Metro_Subs'
+
+Typer: Pizza,Fastfood,Cafe, Asian, Traditional,Steakhouse
+
+Nationalitet: Swedish, Italian, Amarican, German, Asian, French
+
+Prisklass: Low, Mid, High
+
+Qvalite: Low, Mid; High
+
+Distans: 0 - 100
